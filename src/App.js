@@ -6,7 +6,6 @@ import VideoDetail from './components/VideoDetail'
 import youtube from '../src/api/Youtube'
 import './App.css';
 
-const KEY = 'AIzaSyC5Fr2wPqOEU8gf3SiU3YgQF-VOFu-ZjVM'
 
 class App extends React.Component {
   state = {
